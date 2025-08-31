@@ -2,7 +2,6 @@
 
 This is a challenge from devchallenges.io which is to create a minimal blog card using HTML and CSS.
 
-Goals
 The goals of this project is to:
 
 1. Start with basic HTML and CSS skills
