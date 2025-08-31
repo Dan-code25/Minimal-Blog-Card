@@ -13,3 +13,7 @@ The goals of this project is to:
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/60efb55c-42b2-4d48-9123-35d0b6e9730a" />
 
+## Visit the Website
+
+To visit the website, go to this link:
+https://dan-code25.github.io/Minimal-Blog-Card/
